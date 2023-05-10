@@ -1,0 +1,40 @@
+.bg-navbar {
+    background-color: rgb(7, 13, 27);
+}
+
+.menu-berger {
+    background-color: rgb(86, 86, 86);
+}
+
+.textmenuheader::first-letter {
+    color: yellow;
+}
+
+.icon-text-menu {
+    font-size: 20px;
+}
+
+ul li {
+    font-size: 18px;
+}
+
+.links:hover {
+    color: yellow;
+}
+
+header {
+    background-color: rgb(7, 13, 27);
+    width: 100%;
+    height: 100vh;
+
+}
+
+.img-header {
+    width: 100%;
+    height: 85vh;
+
+}
+
+.mt {
+    margin-top: 100px;
+}
