@@ -88,3 +88,16 @@ header {
     border-radius: 100px;
     padding: 10px;
 }
+
+.contaniner-aboutme {
+    background-color: rgb(9, 16, 33);
+    width: 100%;
+    height: 100vh;
+}
+
+.bor-t {
+    width: 300px;
+    height: 2px;
+    background-color: rgb(63, 69, 81);
+    margin-left: 410px;
+}
