@@ -25,7 +25,7 @@ ul li {
 header {
     background-color: rgb(7, 13, 27);
     width: 100%;
-    height: 100vh;
+    height: 81ch;
 
 }
 
@@ -37,7 +37,7 @@ header {
 
 .img-header {
     width: 100%;
-    height: 85vh;
+    height: 69ch;
 }
 
 .mt {
@@ -92,12 +92,12 @@ header {
 .contaniner-aboutme {
     background-color: rgb(9, 16, 33);
     width: 100%;
-    height: 100vh;
+    height: 100%;
 }
 
 .bor-t {
-    width: 300px;
+    width: 30%;
     height: 2px;
     background-color: rgb(63, 69, 81);
-    margin-left: 410px;
+    margin-left: 35%;
 }
