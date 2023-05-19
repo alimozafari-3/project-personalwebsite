@@ -102,6 +102,26 @@ header {
     margin-left: 35%;
 }
 
-.container-skills{
+.container-skills {
     background-color: rgb(7, 13, 27);
+}
+
+.container-myservices {
+    background-color: rgb(9, 16, 33)
+}
+
+.box-myservices {
+    width: 100%;
+    height: 35ch;
+    border: 2px solid white;
+}
+
+.box-myservices:hover {
+    border: 2px solid rgb(254, 197, 68);
+}
+.text-services{
+    color: white;
+}
+.box-myservices:hover .text-services{
+    color: rgb(254, 197, 68);
 }
