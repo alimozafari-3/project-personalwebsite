@@ -128,4 +128,6 @@ header {
 
 .container-portfolio{
     background-color: rgb(7, 13, 27);
+    width: 100%;
+    height: 100%;
 }
