@@ -135,3 +135,13 @@ header {
 .getintouch{
     background-color: rgb(9, 16, 33)
 }
+
+.input-footer{
+    background-color: rgb(16, 22, 35);
+    border: 1px solid rgb(35, 41, 53);
+    
+}
+
+.input-footer:focus{
+    background-color: rgb(16, 22, 35);
+}
