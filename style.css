@@ -145,3 +145,10 @@ header {
 .input-footer:focus{
     background-color: rgb(16, 22, 35);
 }
+
+.icon-footer{
+    border: 1px solid rgb(168, 172, 184);
+    border-radius: 50%;
+    width: 50px;
+    height: 45px;
+}
